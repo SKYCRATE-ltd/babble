@@ -1,0 +1,2 @@
+# thread-mq
+Simple messaging paradigms for threads and maybe sockets and possibly network requests
