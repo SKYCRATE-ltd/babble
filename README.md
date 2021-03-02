@@ -1,2 +1,2 @@
-# Babble Message Queue Paradigm Wrapper for Various Sources
+# Parley MQ
 Simple messaging paradigms for threads and maybe sockets and possibly network requests
